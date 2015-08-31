@@ -1,5 +1,7 @@
 # magetron.github.io
 
-Here is the Source Code of my Github.io Blog Site.
+Here is the Source Code of my Github.io PortFolio Site.
 
-Fork it, Download it, Whatever you want!
+# License
+
+NO License At ALL! Do Whatever you want!
