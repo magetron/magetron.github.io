@@ -1,0 +1,59 @@
+html, body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+h1 {
+  font-size: 2.2em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  line-height: 1.3em;
+}
+
+h3 {
+   font-size: 1.3em;
+   font-weight: 400;
+   color: #C7CEDA;
+   letter-spacing: 0.08em;
+   line-height: 1.3em;
+}
+
+h4 {
+   font-size: 1.1em;
+   font-weight: 400;
+   letter-spacing: 0.08em;
+}
+
+h5 {
+  font-size: 1.1em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+}
+
+h6 {
+  font-size: 1em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+}
+
+p {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.space {
+  height: 2em;
+}
+
+header {
+  padding: 200px 0 150px;
+}
+
+section {
+  padding: 100px 0;
+}
