@@ -14,3 +14,8 @@ cd ..
 
 /bin/rm -rf resume
 
+git add .
+
+git commit -m "update resume"
+
+git push
